@@ -1,0 +1,10 @@
+module github.com/supernovalang/snova-collections https://github.com/supernovalang/snova-collections
+
+snova "1.0.0"
+
+dependencies(
+    direct = [
+    ],
+    indirect = [
+    ]
+)
