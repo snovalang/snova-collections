@@ -1,9 +1,9 @@
 # Snova Collections (`Snova.Std.Collections`)
 
-Estruturas de dados fundamentais em Snovalang puro.
+Fundamental data structure collections in pure Snovalang.
 
-## Módulos
-- `List` (ArrayList dinâmico)
-- `Map` (Dicionário chave-valor)
-- `Set` (Conjunto único)
-- `Queue` (Fila FIFO)
+## Features
+- `List` (dynamic resizable array list)
+- `Map` (associative key-value dictionary)
+- `Set` (unique element collection)
+- `Queue` (FIFO queue)
