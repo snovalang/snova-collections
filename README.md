@@ -7,3 +7,8 @@ Fundamental data structure collections in pure Snovalang.
 - `Map` (associative key-value dictionary)
 - `Set` (unique element collection)
 - `Queue` (FIFO queue)
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](LICENSE).
+Copyright 2026 Snovalang contributors. See [NOTICE](NOTICE).
